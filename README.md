@@ -6,6 +6,22 @@
 
 **从意图到行动，让不必要的距离归零。**
 
+### 60-Second Overview
+
+**What we're building.** ZeroGap explores a more direct path from human intent to real action. Our near-term focus is a cross-platform AI agent that understands goals, plans and executes tasks across applications, and verifies results. Longer term, we are exploring brain-computer interfaces (BCI) as an alternative way to express intent, especially for people with limited mobility.
+
+**Where we are.** Concept and exploration stage. The vision document (8 chapters) and business plan (15 chapters) are complete. The cross-platform agent design is outlined, with chapters still being drafted. There is no working prototype yet; the next milestone is to validate one low-risk, end-to-end task.
+
+**Who's building it.** An independent, founder-led project. The founder's background spans healthcare and IT, with ongoing interests in BCI, large language models, and agent systems. Technical collaborators and research partners are welcome.
+
+### 一分钟了解 ZeroGap
+
+**我们在做什么。** ZeroGap 探索一条从人的意图到真实行动更直接的路径。近期聚焦跨平台 AI Agent：理解目标、规划任务、跨应用执行并验证结果；长期探索脑机接口（BCI），为行动受限人群提供新的意图输入方式。
+
+**现在到哪一步。** 处于概念与探索阶段。愿景文档（8 章）与企业策划书（15 章）已完成；跨平台 Agent 技术方案已有总体架构与目录，章节正在补充；尚无可用原型，下一步是验证一个低风险、端到端的真实任务闭环。
+
+**谁在做。** 目前由发起人独立推进。发起人拥有医疗与 IT 交叉背景，持续关注脑机接口、大模型与 Agent 系统。欢迎技术合作者与研究伙伴交流。
+
 ZeroGap 是一个面向未来人机交互的创业构想，致力于探索如何让人的意图更自然、更直接地转化为数字世界中的行动。
 
 我们相信，下一代计算体验的进步，不仅在于设备性能的提升和交互界面的优化，更在于缩短人与技术之间的距离。

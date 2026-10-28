@@ -1,3 +1,5 @@
+![ZeroGap 封面](docs/images/fengmian.png)
+
 # ZeroGap
 
 ### From Intent to Action, Without Steps.

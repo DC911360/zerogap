@@ -4,6 +4,8 @@
 
 ### From Intent to Action, Without Steps.
 
+> English readers: [English Summary →](README.en.md)
+
 **从意图到行动，让不必要的距离归零。**
 
 ### 60-Second Overview
@@ -12,7 +14,7 @@
 
 **Where we are.** Concept and exploration stage. The vision document (8 chapters) and business plan (15 chapters) are complete. The cross-platform agent design is outlined, with chapters still being drafted. There is no working prototype yet; the next milestone is to validate one low-risk, end-to-end task.
 
-**Who's building it.** An independent, founder-led project. The founder's background spans healthcare and IT, with ongoing interests in BCI, large language models, and agent systems. Technical collaborators and research partners are welcome.
+**Who's building it.** An independent, solo-founder project. The founder's background spans healthcare and IT, with ongoing interests in BCI, large language models, and agent systems. Technical collaborators and research partners are welcome.
 
 ### 一分钟了解 ZeroGap
 

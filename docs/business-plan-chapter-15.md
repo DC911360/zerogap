@@ -1,6 +1,6 @@
 # 第十五章 长期展望：未来五至十年的 ZeroGap
 
-# Chapter 15: Long-Term Vision — ZeroGap Over the Next Five to Ten Years
+### Chapter 15: Long-Term Vision — ZeroGap Over the Next Five to Ten Years
 
 ![ZeroGap 长期展望：未来五至十年的 ZeroGap](images/business-plan-chapter-15.png)
 

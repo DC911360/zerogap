@@ -1,6 +1,6 @@
 # 第十四章 风险与责任：技术边界、安全与伦理
 
-# Chapter 14: Risks and Responsibility — Technical Boundaries, Safety and Ethics
+### Chapter 14: Risks and Responsibility — Technical Boundaries, Safety and Ethics
 
 ![ZeroGap 风险与责任：技术边界、安全与伦理](images/business-plan-chapter-14.png)
 

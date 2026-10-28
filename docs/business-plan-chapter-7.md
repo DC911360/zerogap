@@ -1,5 +1,5 @@
 # 第七章 脑机接口：探索人与数字世界的直接连接
-# Chapter 7: Brain-Computer Interface — Toward a Direct Connection Between Humans and the Digital World
+### Chapter 7: Brain-Computer Interface — Toward a Direct Connection Between Humans and the Digital World
 
 > **ZeroGap — From Intent to Action, Without Steps.**
 >

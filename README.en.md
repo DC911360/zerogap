@@ -2,7 +2,7 @@
 
 ### From Intent to Action, Without Steps.
 
-> English summary for international readers. The full project documents are currently written in Chinese.
+> [中文版 README](README.md) · English summary for international readers. The full project documents are currently written in Chinese.
 
 ## The Problem
 
@@ -28,6 +28,7 @@ This does not mean the problem is solved. It means there is a reasonable window 
 ## Where We Are
 
 - **Stage:** concept and exploration. This is not a finished product, and nothing here should be read as an investment or medical recommendation.
+- **Note:** some text and images were drafted with AI assistance. Technical claims still require validation.
 - **Completed:** the vision document (8 chapters) and business plan (15 chapters), in Chinese.
 - **In progress:** the cross-platform agent technical design. The architecture and outline exist; chapters are still being drafted.
 - **Not yet:** a working prototype, user traction, or validated commercial results.
@@ -58,11 +59,15 @@ The full documents are in Chinese:
 - [Vision & Product Philosophy](docs/vision.md) — complete, 8 chapters
 - [Business Plan](docs/business-plan.md) — complete, 15 chapters
 - [Cross-Platform Agent Technical Design](docs/cross-platform-agent.md) — outline and overview complete, chapters in progress
-- [BCI Technical Validation Plan](docs/brain-computer-interface.md) — planned
+- [BCI Technical Validation Plan](docs/brain-computer-interface.md) — framework complete, experiments not started
 
 ## Contact
 
 For questions, collaboration, or corrections, please open a GitHub Issue.
+
+## License
+
+Documentation and images are licensed under [CC BY-NC 4.0](LICENSE). Commercial use is not permitted. If code is added later, it may use a separate license.
 
 ---
 

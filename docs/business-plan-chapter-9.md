@@ -1,5 +1,5 @@
 # 第九章 技术路线：从可验证的原型开始
-# Chapter 9: Technical Roadmap — From a Verifiable Prototype to a Scalable System
+### Chapter 9: Technical Roadmap — From a Verifiable Prototype to a Scalable System
 
 ![ZeroGap 技术路线：从可验证的原型开始](images/zerogap-technical-roadmap.png)
 

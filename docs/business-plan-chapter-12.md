@@ -1,6 +1,6 @@
 # 第十二章 商业模式：从产品价值到可持续增长
 
-# Chapter 12: Business Model — From Product Value to Sustainable Growth
+### Chapter 12: Business Model — From Product Value to Sustainable Growth
 
 ![ZeroGap 商业模式：从产品价值到可持续增长](images/business-plan-chapter-12.png)
 

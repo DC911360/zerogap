@@ -1,6 +1,6 @@
 # 第十一章 市场分析：目标用户、需求与竞争格局
 
-# Chapter 11: Market Analysis — Target Users, Needs and Competitive Landscape
+### Chapter 11: Market Analysis — Target Users, Needs and Competitive Landscape
 
 ![ZeroGap 市场分析：目标用户、需求与竞争格局](images/business-plan-chapter-11.png)
 

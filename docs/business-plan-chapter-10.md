@@ -1,6 +1,6 @@
 # 第十章 产品规划：阶段目标与关键里程碑
 
-# Chapter 10: Product Planning — Phase Goals and Key Milestones
+### Chapter 10: Product Planning — Phase Goals and Key Milestones
 
 ![ZeroGap 产品规划：阶段目标与关键里程碑](images/zerogap-product-roadmap.png)
 ![ZeroGap 产品规划：阶段目标与关键里程碑](images/zerogap-product-roadmap1.png)

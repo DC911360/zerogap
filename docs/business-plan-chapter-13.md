@@ -1,6 +1,6 @@
 # 第十三章 团队与资源：构建怎样的组织能力
 
-# Chapter 13: Team and Resources — Building the Capabilities We Need
+### Chapter 13: Team and Resources — Building the Capabilities We Need
 
 ![ZeroGap 团队与资源：软件、硬件、医学与实验室协同](images/business-plan-chapter-13.png)
 

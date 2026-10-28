@@ -1,5 +1,5 @@
 # 第八章 融合架构：感知、理解、执行与反馈
-# Chapter 8: Integrated Architecture — Perception, Understanding, Execution and Feedback
+### Chapter 8: Integrated Architecture — Perception, Understanding, Execution and Feedback
 
 ![ZeroGap 融合架构：感知、理解、执行与反馈](images/zerogap-integrated-architecture.png)
 
